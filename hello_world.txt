@@ -1,0 +1,4 @@
+Hello world!
+This is a text file I am updating
+in order to test Git and GitHub.
+The efficiency potential is crazy!
